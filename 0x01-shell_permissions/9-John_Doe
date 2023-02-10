@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -rwxr-x-wx hello
+sudo chmod 111 101 011 hello
